@@ -120,7 +120,7 @@ header{
     height: 40px;
 }
 header div.home-wrapper{
-    background: url('asset/green.jpg');
+    background: skyblue;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -162,7 +162,7 @@ header nav ul li{
 
 }
 header nav ul li:hover{
-    background-color: rgb(72,226,51);
+    background-color: skyblue;
 }
 header nav ul li a{
     text-decoration: none;
@@ -175,7 +175,7 @@ header nav ul li a{
     text-transform: uppercase;
 }
 header nav ul li.active{
-    background-color: rgb(72,226,51);
+    background-color: skyblue;
 }
  li.staff-login{
     float: right !important;
@@ -198,7 +198,7 @@ input[type=email],input[type=password]{
     width:75%;
     box-sizing:border-box;
     border:none;
-    border-bottom: 3px solid rgb(12, 236, 143);
+    border-bottom: 3px solid skyblue;
     padding: 10px;
     transition: ease-in-out, width .35s ease-in-out;
     margin-left:30px;
@@ -207,7 +207,7 @@ input[type=email]:focus,input[type=password]:focus{
     box-sizing: border-box;
     border:none;
     outline:none;
-    border-bottom:3px solid rgb(12, 236, 143);
+    border-bottom:3px solid skyblue;
     padding:10px;
     margin-left: 10px;
     margin-right: 10px;
@@ -216,7 +216,7 @@ input[type=email]:focus,input[type=password]:focus{
 button{
     box-sizing:border-box;
     border-radius: 13px 7px;
-    background: rgb(16, 223, 85);
+    background: skyblue;
     padding:20px;
     margin-top:50px;
     margin-left: 10px;

@@ -120,7 +120,7 @@ header{
     height: 40px;
 }
 header div.home-wrapper{
-    background: url('ui/asset/green.jpg');
+    background: skyblue;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -159,7 +159,7 @@ header nav ul li{
 
 }
 header nav ul li:hover{
-    background-color: rgb(72,226,51);
+    background-color: skyblue;
 }
 header nav ul li a{
     text-decoration: none;
@@ -171,7 +171,7 @@ header nav ul li a{
     text-transform: uppercase;
 }
 header nav ul li.active{
-    background-color: rgb(72,226,51);
+    background-color: skyblue;
 }
  li.staff-login{
     float: right !important;
@@ -181,7 +181,7 @@ section .company-section{
     height: calc(100vh - 100px);
     background-position: center;
     background-size: cover;
-    background-image:  url('ui/asset/work_in_progress.jpg');
+    background-image:  url('ui/asset/home_3.jpg');
     background-repeat: no-repeat;
 }
 footer{
